@@ -58,11 +58,23 @@ body {
   color: white;
   font-size: 2.5rem;
 }
+.ad{
+  width: 90vw;
+  height: 10vw;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
 
 
 @media (max-width: 800px) {
   .calculator-grid {
-    width: 95vw;
+    width: 90vw;
+    height: 90vw;
+  }
+  .ad{
+    width: 90vw;
+    height: 10vw;
   }
 
 }
