@@ -69,12 +69,13 @@ body {
 
 @media (max-width: 800px) {
   .calculator-grid {
-    width: 90vw;
-    height: 90vw;
+    margin : 0 auto;
+    margin: 0;
+    width: 100vw;
+        
   }
   .ad{
-    width: 90vw;
-    height: 10vw;
+    width: 100vw;
   }
 
 }
